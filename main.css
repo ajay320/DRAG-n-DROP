@@ -13,7 +13,7 @@ body {
     display: flex;
     flex-flow: column;
     width: 100vw;
-    height: 99vh;
+    height: 100vh;
 }
 
 header {
